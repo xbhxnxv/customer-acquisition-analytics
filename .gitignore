@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data (downloaded at runtime)
+data/
+*.csv
+*.zip
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
