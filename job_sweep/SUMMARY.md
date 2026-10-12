@@ -1,6 +1,6 @@
 # Best-fit job sweep — 2026-10-12
 
-58 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
+63 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
 
 ## 10 nearest deadlines
 
@@ -65,11 +65,9 @@ Confirm your earlier application covers this (2027) cycle:
 - Palantir (UK) (UK) — Palantir London Deployment Strategist (new grad) — check palantir.com/careers
 - Mercer (Marsh McLennan) (UK) — Mercer UK 2027 graduate (actuarial/wealth/consulting analyst) — not indexed; check careers.marshmclennan.com
 - Berkeley Research Group (BRG) (UK) — BRG London Associate (2027) — check thinkbrg.com careers
-- Razorpay (India) — not yet checked
-- India private banks (ICICI, HDFC, Axis, Kotak, IDFC First, Yes) (India) — not yet checked
-- SBI (State Bank of India) (India) — not yet checked
-- India big-tech arms (Google, Microsoft, Amazon [done], Salesforce, Oracle, SAP, Adobe, Cisco, Uber, LinkedIn, ServiceNow, Snowflake, Databricks) (India) — not yet checked
-- India SaaS (Freshworks, Zoho, Postman, Chargebee, BrowserStack, InMobi, Delhivery, PolicyBazaar, Navi, Angel One) (India) — not yet checked
+- India private banks (ICICI, HDFC, Axis, Kotak, IDFC First, Yes) (India) — Kotak / HDFC / ICICI analytics or credit-analyst fresher roles — check each bank's careers portal
+- India big-tech arms (Google, Microsoft, Amazon [done], Salesforce, Oracle, SAP, Adobe, Cisco, Uber, LinkedIn, ServiceNow, Snowflake, Databricks) (India) — India big-tech group: Microsoft, Salesforce, SAP, Adobe, Cisco, LinkedIn, ServiceNow, Snowflake, Databricks not individually searched
+- India SaaS (Freshworks, Zoho, Postman, Chargebee, BrowserStack, InMobi, Delhivery, PolicyBazaar, Navi, Angel One) (India) — India SaaS group: Zoho, Postman, Chargebee, InMobi, Navi, Angel One, Delhivery — search careers pages individually
 - Analytics firms (MuSigma, LatentView, plus BCN & McKinsey Knowledge Centre) (India) — not yet checked
 - CRED (India) — not yet checked
 - Groww (India) — not yet checked
