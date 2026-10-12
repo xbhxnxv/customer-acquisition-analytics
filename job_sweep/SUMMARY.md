@@ -1,6 +1,6 @@
 # Best-fit job sweep — 2026-10-12
 
-70 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
+105 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
 
 ## 10 nearest deadlines
 
@@ -12,10 +12,10 @@
 | 2026-10-20 | 8 | LSEG (London Stock Exchange Group) (UK) | [Engineering Graduate Programme (Business Analysis / Project Management)](https://targetjobs.co.uk/jobs/engineering-graduate-programme-business-analysis-project-management-242221) | 90 |
 | 2026-10-21 | 9 | WTW (Willis Towers Watson) (UK) | [2027 Rewards Data & Intelligence Consulting Graduate Programme (London)](https://targetjobs.co.uk/jobs/2027-rewards-data-intelligence-consulting-graduate-programme-london-245983) | 95 |
 | 2026-10-22 | 10 | EY-Parthenon (UK) | [Strategy (Financial Services) Graduate Programme - September 2027 intake](https://www.brightnetwork.co.uk/graduate-jobs/ey/strategy-financial-services-graduate-programme-september-2027-intake) | 95 |
+| 2026-10-22 | 10 | ZS Associates India (India) | [Business Technology Solutions Associate (BTSA) — off-campus 2026](https://joinsaarthi.com/drives/fcb002b9-9968-4d95-9c2c-8407f5f8381c) | 83 |
 | 2026-10-25 | 13 | Oliver Wyman (UK) | [Consultant (entry level, full-time) — London 2027](https://www.gradcracker.com/search/all-disciplines/engineering-jobs-in-london-with-oliver-wyman) | 95 |
 | 2026-10-29 | 17 | FTI Consulting (UK) | [2027 Graduate Scheme, Economic & Financial Consulting (London)](https://www.brightnetwork.co.uk/graduate-jobs/fti-consulting/graduate-scheme-economic-financial-consulting-london-2027-anxn) | 95 |
 | 2026-11-01 | 20 | OC&C Strategy Consultants (UK) | [Associate Consultant 2027/28 - Strategy (London office)](https://careers.occstrategy.com/vacancies/388/associate-consultant-2027-28--strategy-london-office.html) | 90 |
-| 2026-11-01 | 20 | JP Morgan (UK) (UK) | [2027 Global Private Bank Investment Solutions Analyst Training Program - London](https://careers.jpmorgan.com/global/en/students/programs) | 68 |
 
 ## Top 10 by Fit Score
 
@@ -71,28 +71,13 @@ Confirm your earlier application covers this (2027) cycle:
 - Analytics firms (MuSigma, LatentView, plus BCN & McKinsey Knowledge Centre) (India) — McKinsey Knowledge Center Gurugram & LatentView — check careers pages for live analyst roles
 - Meesho / Zepto / Nykaa / Ola (India) — Meesho / Zepto / Nykaa — check careers pages for fresher BA roles
 - Tata / large Indian enterprises (TCS, Infosys, Wipro, HCL, Tech Mahindra, LTIMindtree, Mphasis, Persistent, Coforge) (India) — IT services group — BA-specific fresher roles not found; check each portal (e.g. TCS NextStep/iBegin)
-- S&P Global India (+ CRISIL) (India) — not yet checked
-- MSCI India (India) — not yet checked
-- Morningstar / Sustainalytics India (India) — not yet checked
-- Acuity Knowledge Partners (India) — not yet checked
-- FactSet India (India) — not yet checked
-- LSEG / Refinitiv India (India) — not yet checked
-- Wells Fargo India (EGS) (India) — not yet checked
-- HSBC India (GSC) (India) — not yet checked
-- JP Morgan India (India) — not yet checked
-- Deutsche Bank India (India) — not yet checked
-- Deloitte India (India) — not yet checked
-- Accenture India (India) — not yet checked
-- PwC India / EY India / KPMG India (India) — not yet checked
-- Capgemini India (India) — not yet checked
-- Goldman Sachs India (India) — not yet checked
-- Swiggy (India) — not yet checked
-- Flipkart (India) — not yet checked
-- Amazon India (India) — not yet checked
-- ZS Associates India (India) — not yet checked
-- Tiger Analytics (India) — not yet checked
-- Fractal Analytics (India) — not yet checked
-- PhonePe (India) — not yet checked
+- S&P Global India (+ CRISIL) (India) — CRISIL fresher research analyst — check crisil.com careers
+- JP Morgan India (India) — JPMorgan India campus/early-careers — check careers.jpmorgan.com filtered to India
+- Accenture India (India) — Accenture India Strategy & Consulting Analyst — check careers search
+- PwC India / EY India / KPMG India (India) — PwC/EY/KPMG India advisory associate roles — check each firm's careers portal
+- Goldman Sachs India (India) — Goldman Sachs India 2027 New Analyst — check higher.gs.com for Operations/Risk tracks
+- Amazon India (India) — Amazon India Business Analyst (0–1 yr) — filter amazon.jobs
+- Fractal Analytics (India) — Fractal Workday board — check for Imagineer / Analyst openings
 - Sia Partners (UK) — Sia (London) — check careers site for 'First Employment' consultant roles
 - Altman Solon (UK) — Altman Solon London Business Analyst — check careers page
 - Gartner (UK) — Gartner Data Analyst (2026/2027 graduates) job 112849 — check if Egham/London
@@ -108,33 +93,9 @@ Confirm your earlier application covers this (2027) cycle:
 - BP (UK) — bp UK 2027 graduate (business/digital/data) — not indexed
 - Octopus Energy (UK) — Octopus Energy — check 'Junior Operations Analyst' (London) on careers site
 - BT Group (UK) — BT Group 2027 graduate schemes — not indexed yet
-- EXL (India) — not yet checked
-- Genpact (India) — not yet checked
-- WNS (India) — not yet checked
-- Evalueserve (India) — not yet checked
-- Axtria (India) — not yet checked
-- Tredence (India) — not yet checked
-- Course5 Intelligence (India) — not yet checked
-- American Express India (AIA / Gurugram) (India) — not yet checked
-- Mastercard India (India) — not yet checked
-- Visa India (India) — not yet checked
-- Barclays India (Pune) (India) — not yet checked
-- Citi India (India) — not yet checked
-- Morgan Stanley India (India) — not yet checked
-- BNY India (Pune / Chennai) (India) — not yet checked
-- Standard Chartered India (GBS) (India) — not yet checked
-- Fidelity International India (Gurugram) (India) — not yet checked
-- BlackRock India (Gurugram / Mumbai) (India) — not yet checked
-- State Street India (India) — not yet checked
-- EY GDS India (India) — not yet checked
-- KPMG Global Services India (India) — not yet checked
-- Kearney India (India) — not yet checked
-- Alvarez & Marsal India (India) — not yet checked
-- PayU India (India) — not yet checked
-- Juspay (India) — not yet checked
-- Pine Labs (India) — not yet checked
-- Bajaj Finserv / Bajaj Finance (India) — not yet checked
-- Experian India (India) — not yet checked
-- TransUnion CIBIL (India) — not yet checked
-- Hindustan Unilever (HUL) (India) — not yet checked
-- Bharti Airtel (India) — not yet checked
+- Genpact (India) — Genpact Process Associate – Analytics (Gurugram/Bengaluru) — check careers
+- Morgan Stanley India (India) — Morgan Stanley India 2027 full-time analyst (Mumbai/Bengaluru) — check careers
+- BNY India (Pune / Chennai) (India) — BNY India — check careers portal for Pune/Chennai Analyst openings
+- BlackRock India (Gurugram / Mumbai) (India) — BlackRock India 2027 Analyst Program (Gurugram/Mumbai) — check careers
+- Kearney India (India) — Kearney India Business Analyst (Delhi/Mumbai/Bengaluru) — check careers
+- Hindustan Unilever (HUL) (India) — HUL — check UFLP / campus routes

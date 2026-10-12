@@ -1,7 +1,7 @@
 [
  "NETWORK: this run's cloud environment blocked all outbound traffic to careers sites, ATS APIs (Greenhouse, Lever, Workday, Eightfold...), job boards and search engines (HTTP 403 from the egress proxy). The page-fetch tool also failed DNS for every host. The ATS/Playwright scripts (ats_fetch.py, scrape.py) are written but could not be run.",
  "METHOD ACTUALLY USED: a web-search tool (results come from a search index, with titles, URLs and a summary of the matching pages). Every role row comes from a search result whose URL is in Apply Link; pages were NOT loaded directly. Treat every row as 'verify on company site' before applying.",
- "SEARCH LIMIT: the session allows 200 web searches per turn. That limit was reached after UK rows 1\u2013145, all 50 added UK companies and India rows 146\u2013150. The remaining India companies (India rows 151\u2013179 and added India rows 230\u2013259) show 'NOT YET CHECKED' in Coverage; send 'continue' to resume from progress.jsonl.",
+ "SEARCH LIMIT: the session allows 200 web searches per turn, so the sweep ran across three turns, resuming from progress.jsonl. All 259 entries are now checked.",
  "GROUPED INDIA ROWS 149 and 150 were covered by combined searches, so several companies inside those groups were not individually checked (listed under CHECK MANUALLY).",
  "DEADLINES: a date is only recorded when a search result states it explicitly. Anything else is 'Rolling'. Deadline Source names the site the date came from (company site, Gradcracker, Bright Network, TargetJobs, Prospects, etc.).",
  "SALARY / START / REQUIREMENTS: recorded only when the search result states them; otherwise 'Not stated'.",
@@ -9,5 +9,6 @@
  "GROUPED ENTRIES (e.g. 'India private banks', 'India big-tech arms', 'India SaaS'): treated as one Coverage row each; up to 3 best roles across the whole group are listed, with the actual employer named in the Role Title.",
  "Companies that also appear in both lists (e.g. Razorpay, PhonePe, ICICI/HDFC/Axis/Kotak in the UK list) were searched for openings in the region of the row: UK rows look for UK roles; India rows look for India roles. Indian banks and Gulf banks listed under 'UK' have no UK graduate hiring found unless stated.",
  "Sheet 'Closed / Excluded' is named 'Closed - Excluded' because Excel forbids '/' in sheet names.",
- "Checkpointing: results are appended to progress.jsonl per company and the workbook is rebuilt after each batch of companies."
+ "Checkpointing: results are appended to progress.jsonl per company and the workbook is rebuilt after each batch of companies.",
+ "INDIA ROLES lean heavily on fresher-job aggregators (MyInternships, FreshersHunt, FresherOffCampus etc.), which are often stale or inaccurate. Several India listings are internships open to 2026 graduates (marked INTERNSHIP). Verify every India row on the employer's own careers page."
 ]
