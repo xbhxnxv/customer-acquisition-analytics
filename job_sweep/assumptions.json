@@ -1,0 +1,11 @@
+[
+ "NETWORK: this run's cloud environment blocked all outbound traffic to careers sites, ATS APIs (Greenhouse, Lever, Workday, Eightfold...), job boards and search engines (HTTP 403 from the egress proxy). The page-fetch tool also failed DNS for every host. The ATS/Playwright scripts (ats_fetch.py, scrape.py) are written but could not be run.",
+ "METHOD ACTUALLY USED: a web-search tool (results come from a search index, with titles, URLs and a summary of the matching pages). Every role row comes from a search result whose URL is in Apply Link; pages were NOT loaded directly. Treat every row as 'verify on company site' before applying.",
+ "DEADLINES: a date is only recorded when a search result states it explicitly. Anything else is 'Rolling'. Deadline Source names the site the date came from (company site, Gradcracker, Bright Network, TargetJobs, Prospects, etc.).",
+ "SALARY / START / REQUIREMENTS: recorded only when the search result states them; otherwise 'Not stated'.",
+ "FIT SCORE: computed by score.py from the role family, seniority, skills mentioned, location and domain, per Section 5. Roles under 55 are moved to 'Closed - Excluded'.",
+ "GROUPED ENTRIES (e.g. 'India private banks', 'India big-tech arms', 'India SaaS'): treated as one Coverage row each; up to 3 best roles across the whole group are listed, with the actual employer named in the Role Title.",
+ "Companies that also appear in both lists (e.g. Razorpay, PhonePe, ICICI/HDFC/Axis/Kotak in the UK list) were searched for openings in the region of the row: UK rows look for UK roles; India rows look for India roles. Indian banks and Gulf banks listed under 'UK' have no UK graduate hiring found unless stated.",
+ "Sheet 'Closed / Excluded' is named 'Closed - Excluded' because Excel forbids '/' in sheet names.",
+ "Checkpointing: results are appended to progress.jsonl per company and the workbook is rebuilt after each batch of companies."
+]

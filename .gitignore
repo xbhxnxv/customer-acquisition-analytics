@@ -15,3 +15,7 @@ data/
 .DS_Store
 .idea/
 .vscode/
+
+# Job sweep: keep the company list
+!job_sweep/companies.csv
+job_sweep/__pycache__/

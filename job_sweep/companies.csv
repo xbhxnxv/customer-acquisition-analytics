@@ -1,0 +1,260 @@
+#,Region,Company,Applied,Applied Role,Careers URL
+1,UK,Monzo,YES,Graduate Credit Analyst,https://job-boards.greenhouse.io/monzo/jobs/8173733
+2,UK,Revolut,YES,Graduate Programme 2027: Data Scientist and Analyst,https://www.revolut.com/careers/position/graduate-programme-2027-data-scientist-and-analyst-fb71028e-634a-46bf-8be7-d85a3f929854/
+3,UK,Wise,YES,No entry-level analyst fit currently open (closest: Senior Data Analyst),https://wise.jobs/jobs?q=data_analyst
+4,UK,Starling Bank,YES,No grad/general analyst fit currently (analyst roles are InfoSec or Tr...),https://www.starlingbank.com/careers/
+5,UK,MSCI,YES,ESG / Sustainability & Climate roles open,https://careers.msci.com/job-search?keyword=ESG
+6,UK,Sustainalytics (Morningstar),YES,ESG Analyst / Research Analyst,https://www.morningstar.com/careers/jobs
+7,UK,S&P Global,YES,No ESG data/research analyst open in London now,https://careers.spglobal.com/jobs?keywords=ESG
+8,UK,Moody's,YES,ESG / data analyst roles,https://careers.moodys.com/jobs?keywords=ESG&location=London
+9,UK,Capco,YES,Associate Talent Program (ATP) - entry-level consultant/analyst,https://www.capco.com/Careers/entry-level-atp
+10,UK,ZS Associates,YES,Strategy Insights & Planning Associate / Decision Analytics Associate,https://jobs.zs.com/all/jobs?search=analyst&country=United%20Kingdom
+11,UK,EY,YES,GRADUATE scheme - Assurance: Climate Change & Sustainability Services,https://www.ey.com/en_uk/careers/students
+12,UK,KPMG (UK),YES,GRADUATE programme - Consulting track,https://www.kpmgcareers.co.uk/graduates/
+13,UK,PwC (UK),YES,GRADUATE scheme - Advisory & Consulting (incl. sustainability/ESG),https://jobs.pwc.co.uk/students
+14,UK,Deloitte (UK),YES,GRADUATE programme - Consulting / Technology track,https://www.deloitte.com/uk/en/careers/early-careers.html
+15,UK,Accenture (UK),YES,"Performance Strategy Business Analyst (London, Early Career)",https://www.accenture.com/gb-en/careers/jobsearch?jk=business%20analyst&clevel=Graduate
+16,UK,Capgemini (UK),YES,GRADUATE programme (Consulting/Data&AI) + Business Analysis roles,https://www.capgemini.com/gb-en/careers/job-search/?search=business%20analyst
+17,UK,IBM (UK),YES,No UK entry-level BA/consulting role open,https://www.ibm.com/careers/search?q=business%20analyst
+18,UK,Cognizant (UK),YES,Students & New Grads programme,https://careers.cognizant.com/global-en/students-and-new-grads/
+19,UK,JP Morgan (UK),YES,Graduate Analyst programmes (e.g. Corporate Analyst Development Programme),https://careers.jpmorgan.com/global/en/students/programs
+20,UK,Goldman Sachs (UK),YES,London Analyst roles incl. TxB Payments Product Analyst,https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst&LOCATION=London
+21,UK,Barclays (UK),YES,Graduate programmes (2027 start),https://search.jobs.barclays/search-jobs/business%20analyst/United%20Kingdom
+22,UK,HSBC (UK),YES,Business analyst search (experienced/GSC),https://mycareer.hsbc.com/en_GB/external/SearchJobs/?location=United+Kingdom
+23,UK,Citigroup (UK),YES,Early Careers programme,https://jobs.citi.com/early-careers
+24,UK,Morgan Stanley (UK),YES,Graduate / New Analyst programmes,https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg
+25,UK,BNY (Mellon),YES,"Client Onboarding Analyst Programme, Manchester",https://bnymellon.eightfold.ai/careers
+26,UK,Standard Chartered,YES,International Graduate Programme,https://jobs.standardchartered.com/
+27,UK,NatWest Group,YES,Early Talent graduate programmes,https://jobs.natwestgroup.com/
+28,UK,Bank of America (UK),YES,Campus / Global Analyst Programme,https://careers.bankofamerica.com/en-us/students-and-graduates
+29,UK,Lloyds Banking Group,YES,"Graduate programmes (Data & Analytics, Technology, Business)",https://www.lloydsbankinggroup.com/careers/early-careers.html
+30,UK,Stripe,YES,No London analyst role open,https://stripe.com/jobs/search?query=analyst
+31,UK,Visa,YES,University / early-careers programme + analyst roles,https://corporate.visa.com/en/jobs/
+32,UK,American Express,YES,Students/Graduate programmes + Analytics roles,https://www.americanexpress.com/en-us/careers/
+33,UK,LSEG (London Stock Exchange Group),YES,Early careers / graduate + data & analytics roles,https://careers.lseg.com/
+34,UK,Bloomberg,YES,Financial Data Analyst / Analytics & Sales grad roles,https://careers.bloomberg.com/job/search?q=analyst&locations=London
+35,UK,Mastercard,YES,Associate Analyst / Data Analyst + Launch programme,https://careers.mastercard.com/us/en/search-results?keywords=analyst
+36,UK,PayPal,YES,Students & Grads programme + analyst roles,https://careers.pypl.com/students-and-grads/
+37,UK,Klarna,YES,Roles via Deel job board,https://jobs.deel.com/job-boards/klarna
+38,UK,FIS,YES,Early Talent + analyst roles,https://careers.fisglobal.com/us/en/search-results?keywords=analyst
+39,UK,Worldpay,YES,Analyst roles (London),https://careers.worldpay.com/us/en/search-results?keywords=analyst
+40,UK,Fiserv,YES,Analyst roles + early-career,https://www.careers.fiserv.com/
+41,UK,McKinsey & Company,YES,Business Analyst,https://www.mckinsey.com/careers/search-jobs?query=business%20analyst
+42,UK,Boston Consulting Group (BCG),YES,Associate + Data/Analytics roles,https://careers.bcg.com/global/en/search-results?keywords=associate
+43,UK,Bain & Company,YES,Associate Consultant + Advanced Analytics,https://www.bain.com/careers/
+44,UK,Oliver Wyman,YES,Consultant / Analyst (applied DNA Data Engineer),https://careers.oliverwyman.com/
+45,UK,Kearney,YES,Business Analyst / Associate,https://www.kearney.com/careers
+46,UK,L.E.K. Consulting,YES,Associate,https://www.lek.com/careers
+47,UK,Strategy& (PwC),YES,Associate / Analyst,https://www.strategyand.pwc.com/
+48,UK,Arthur D. Little,YES,Business Analyst / Consultant,https://www.adlittle.com/en/careers
+49,UK,Alvarez & Marsal,YES,Analyst / Associate,https://www.alvarezandmarsal.com/careers
+50,UK,Roland Berger,YES,Consultant / Junior Consultant,https://www.rolandberger.com/en/Careers/
+51,UK,BlackRock,YES,Analyst Programme (grad),https://careers.blackrock.com/students/
+52,UK,Schroders,YES,Graduate programme,https://www.schroders.com/en/global/individual/careers/emerging-talent/
+53,UK,abrdn (Aberdeen Group),YES,Graduate programme / early careers,https://www.abrdn.com/en-gb/careers
+54,UK,Fidelity International,YES,Graduate / analyst programmes,https://careers.fidelityinternational.com/
+55,UK,Legal & General (LGIM),no,,https://group.legalandgeneral.com/en/careers
+56,UK,M&G Investments,no,,https://www.mandg.com/careers
+57,UK,Man Group,no,,https://www.man.com/careers
+58,UK,Invesco,no,,https://www.invesco.com/corporate/en/careers.html
+59,UK,Vanguard,no,,https://www.vanguardjobs.com/
+60,UK,Blackstone,no,,https://www.blackstone.com/careers/
+61,UK,Amazon (UK),no,,https://www.amazon.jobs/en/search?base_query=business+analyst&loc_query=United+Kingdom
+62,UK,Google,no,,https://www.google.com/about/careers/applications/jobs/results/?location=United%20Kingdom
+63,UK,Microsoft (UK),no,,https://careers.microsoft.com/
+64,UK,Apple (UK),no,,https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR
+65,UK,Meta (UK),no,,https://www.metacareers.com/jobs
+66,UK,Netflix (UK),no,,https://jobs.netflix.com/search?q=analyst&location=United%20Kingdom
+67,UK,Salesforce (UK),no,,https://www.salesforce.com/company/careers/university-recruiting/
+68,UK,Oracle (UK),no,,https://www.oracle.com/careers/
+69,UK,SAP (UK),no,,https://jobs.sap.com/
+70,UK,Adobe (UK),no,,https://careers.adobe.com/
+71,UK,TCS (Tata Consultancy Services),no,,https://www.tcs.com/careers
+72,UK,Infosys,no,,https://www.infosys.com/careers/
+73,UK,Wipro,no,,https://careers.wipro.com/
+74,UK,HCLTech,no,,https://www.hcltech.com/careers
+75,UK,Tech Mahindra,no,,https://careers.techmahindra.com/
+76,UK,DXC Technology,no,,https://careers.dxc.com/
+77,UK,Deutsche Bank,no,,https://careers.db.com/students-graduates/
+78,UK,UBS,no,,https://www.ubs.com/global/en/careers/students-graduates.html
+79,UK,Santander (UK),no,,https://www.santandercareers.com/
+80,UK,Wells Fargo (UK),no,,https://www.wellsfargojobs.com/
+81,UK,Metro Bank (UK),no,,https://www.metrobankonline.co.uk/careers/
+82,UK,Bank of England,no,,https://www.bankofengland.co.uk/careers
+83,UK,Nomura (UK),no,,https://www.nomura.com/careers/
+84,UK,BNP Paribas (UK),no,,https://group.bnpparibas/en/careers
+85,UK,Societe Generale,no,,https://careers.societegenerale.com/
+86,UK,FactSet,no,,https://www.factset.com/careers
+87,UK,Fitch Ratings / Fitch Group,no,,https://www.fitch.group/careers
+88,UK,ISS ESG,no,,https://www.issgovernance.com/join-the-iss-team/
+89,UK,Morningstar,no,,https://www.morningstar.com/careers
+90,UK,Refinitiv (LSEG),no,,https://careers.lseg.com/
+91,UK,PA Consulting,no,,https://www.paconsulting.com/careers
+92,UK,Baringa,no,,https://www.baringa.com/en/careers/
+93,UK,Slalom,no,,https://www.slalom.com/careers
+94,UK,Thoughtworks,no,,https://www.thoughtworks.com/careers
+95,UK,Endava,no,,https://careers.endava.com/
+96,UK,BJSS,no,,https://www.bjss.com/careers
+97,UK,Kainos,no,,https://www.kainos.com/careers
+98,UK,Grant Thornton (UK),no,,https://www.grantthornton.co.uk/careers/
+99,UK,RSM UK,no,,https://www.rsmuk.com/careers
+100,UK,Forvis Mazars (UK),no,,https://www.forvismazars.com/uk/en/careers
+101,UK,BearingPoint,no,,https://www.bearingpoint.com/en/careers/
+102,UK,Newton Europe,no,,https://www.newtoneurope.com/careers/
+103,UK,Redkite Consulting,no,,https://www.redkiteconsulting.com/careers
+104,UK,Zanders,no,,https://zanders.eu/en/careers/
+105,UK,Finastra,no,,https://www.finastra.com/about/careers
+106,UK,Adyen,no,,https://www.adyen.com/careers
+107,UK,Checkout.com,no,,https://www.checkout.com/careers
+108,UK,GoCardless,no,,https://gocardless.com/careers/
+109,UK,SumUp,no,,https://www.sumup.com/careers
+110,UK,Zopa,no,,https://www.zopa.com/careers
+111,UK,OakNorth,no,,https://oaknorth.com/careers/
+112,UK,Rapyd,no,,https://www.rapyd.net/company/careers
+113,UK,Plaid,no,,https://plaid.com/careers/
+114,UK,Nium,no,,https://www.nium.com/careers
+115,UK,Razorpay,no,,https://razorpay.com/jobs/
+116,UK,PhonePe,no,,https://www.phonepe.com/careers/
+117,UK,Paytm,no,,https://paytm.com/careers
+118,UK,ICICI Bank,no,,https://www.icicicareers.com/
+119,UK,HDFC Bank,no,,https://www.hdfcbank.com/personal/about-us/careers
+120,UK,Axis Bank,no,,https://www.axisbank.com/careers
+121,UK,Kotak Mahindra Bank,no,,https://www.kotak.com/en/careers.html
+122,UK,Emirates NBD,no,,https://www.emiratesnbd.com/en/careers
+123,UK,First Abu Dhabi Bank (FAB),no,,https://www.bankfab.com/en-ae/about-fab/careers
+124,UK,Saudi National Bank (SNB),no,,https://www.alahli.com/
+125,UK,Al Rajhi Bank,no,,https://www.alrajhibank.com.sa/
+126,UK,Intel (UK),no,,https://www.intel.com/content/www/us/en/jobs/
+127,UK,Cisco (UK),no,,https://jobs.cisco.com/
+128,UK,Uber (UK),no,,https://www.uber.com/us/en/careers/
+129,UK,Airbnb (UK),no,,https://careers.airbnb.com/
+130,UK,Spotify (UK),no,,https://www.lifeatspotify.com/jobs
+131,UK,Nvidia (UK),no,,https://www.nvidia.com/en-us/about-nvidia/careers/
+132,UK,Booking.com,no,,https://careers.booking.com/
+133,UK,LinkedIn (UK),no,,https://careers.linkedin.com/
+134,UK,Atlassian (UK),no,,https://www.atlassian.com/company/careers
+135,UK,ServiceNow (UK),no,,https://www.servicenow.com/careers.html
+136,UK,Snowflake (UK),no,,https://careers.snowflake.com/
+137,UK,Databricks (UK),no,,https://www.databricks.com/company/careers
+138,UK,Palantir (UK),no,,https://www.palantir.com/careers/
+139,UK,Mercer (Marsh McLennan),no,,https://careers.marshmclennan.com/
+140,UK,EY-Parthenon,no,,https://www.ey.com/en_uk/careers
+141,UK,FTI Consulting,no,,https://www.fticonsulting.com/careers
+142,UK,Berkeley Research Group (BRG),no,,https://www.thinkbrg.com/careers/
+143,UK,Charles River Associates (CRA),no,,https://www.crai.com/careers/
+144,UK,Moore Global / Moore UK,no,,https://www.moore-global.com/careers
+145,UK,MEAG (Munich Re),no,,https://www.meag.com/en/career/
+146,India,Razorpay,no,,https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited
+147,India,"India private banks (ICICI, HDFC, Axis, Kotak, IDFC First, Yes)",no,,https://www.icicicareers.com/
+148,India,SBI (State Bank of India),no,,https://sbi.co.in/web/careers
+149,India,"India big-tech arms (Google, Microsoft, Amazon [done], Salesforce, Oracle, SAP, Adobe, Cisco, Uber, LinkedIn, ServiceNow, Snowflake, Databricks)",no,,https://www.google.com/about/careers/applications/jobs/results/?location=India
+150,India,"India SaaS (Freshworks, Zoho, Postman, Chargebee, BrowserStack, InMobi, Delhivery, PolicyBazaar, Navi, Angel One)",no,,https://www.freshworks.com/company/careers/
+151,India,"Analytics firms (MuSigma, LatentView, plus BCN & McKinsey Knowledge Centre)",no,,https://www.mu-sigma.com/careers
+152,India,CRED,no,,https://careers.cred.club/
+153,India,Groww,no,,https://groww.in/careers
+154,India,Dream11 (Dream Sports),no,,https://dreamsports.group/careers/
+155,India,Zerodha,no,,https://zerodha.com/careers/
+156,India,Meesho / Zepto / Nykaa / Ola,no,,https://www.meesho.io/jobs
+157,India,"Tata / large Indian enterprises (TCS, Infosys, Wipro, HCL, Tech Mahindra, LTIMindtree, Mphasis, Persistent, Coforge)",no,,https://www.tcs.com/careers
+158,India,S&P Global India (+ CRISIL),no,,https://careers.spglobal.com/jobs?keywords=analyst&location=India
+159,India,MSCI India,no,,https://careers.msci.com/job-search?keyword=ESG
+160,India,Morningstar / Sustainalytics India,no,,https://www.morningstar.com/careers
+161,India,Acuity Knowledge Partners,no,,https://www.acuitykp.com/careers/
+162,India,FactSet India,no,,https://www.factset.com/careers
+163,India,LSEG / Refinitiv India,no,,https://careers.lseg.com/
+164,India,Wells Fargo India (EGS),no,,https://www.wellsfargojobs.com/en/jobs/
+165,India,HSBC India (GSC),no,,https://mycareer.hsbc.com/en_GB/external
+166,India,JP Morgan India,no,,https://careers.jpmorgan.com/global/en/students/programs
+167,India,Deutsche Bank India,no,,https://careers.db.com/students-graduates/
+168,India,Deloitte India,no,,https://jobsindia.deloitte.com/
+169,India,Accenture India,no,,https://www.accenture.com/in-en/careers/jobsearch
+170,India,PwC India / EY India / KPMG India,no,,https://www.pwc.in/careers.html
+171,India,Capgemini India,no,,https://www.capgemini.com/in-en/careers/
+172,India,Goldman Sachs India,no,,https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst&LOCATION=Bengaluru
+173,India,Swiggy,no,,https://careers.swiggy.com/#/careers
+174,India,Flipkart,no,,https://www.flipkartcareers.com/#!/joblist
+175,India,Amazon India,no,,https://www.amazon.jobs/en/search?base_query=business+analyst&loc_query=India
+176,India,ZS Associates India,no,,https://jobs.zs.com/all/jobs?search=associate&country=India
+177,India,Tiger Analytics,no,,https://www.tigeranalytics.com/about-us/current-openings/
+178,India,Fractal Analytics,no,,https://fractal.wd1.myworkdayjobs.com/Careers
+179,India,PhonePe,no,,https://www.phonepe.com/careers/job-openings/
+180,UK,Simon-Kucher,no,,simon-kucher.com
+181,UK,OC&C Strategy Consultants,no,,occstrategy.com
+182,UK,Elixirr,no,,elixirr.com
+183,UK,Sia Partners,no,,sia-partners.com
+184,UK,Teneo,no,,teneo.com
+185,UK,Stroud International,no,,stroudinternational.com
+186,UK,Altman Solon,no,,altmansolon.com
+187,UK,Turner & Townsend,no,,turnerandtownsend.com
+188,UK,Arup,no,,arup.com
+189,UK,Mott MacDonald,no,,mottmac.com
+190,UK,Jacobs,no,,jacobs.com
+191,UK,WTW (Willis Towers Watson),no,,wtwco.com
+192,UK,Aon,no,,aon.com
+193,UK,Gartner,no,,gartner.com
+194,UK,Protiviti,no,,protiviti.com
+195,UK,BDO UK,no,,bdo.co.uk
+196,UK,Guidehouse,no,,guidehouse.com
+197,UK,Efficio,no,,efficioconsulting.com
+198,UK,Kubrick Group,no,,kubrickgroup.com
+199,UK,Avanade,no,,avanade.com
+200,UK,NTT DATA UK,no,,nttdata.com
+201,UK,CGI UK,no,,cgi.com
+202,UK,Sopra Steria UK,no,,soprasteria.co.uk
+203,UK,Correla,no,,correla.com
+204,UK,Experian,no,,experian.co.uk
+205,UK,Dunnhumby,no,,dunnhumby.com
+206,UK,Kantar,no,,kantar.com
+207,UK,Nationwide Building Society,no,,nationwide.co.uk
+208,UK,Aviva,no,,aviva.com
+209,UK,Phoenix Group,no,,thephoenixgroup.com
+210,UK,Investec,no,,investec.com
+211,UK,State Street,no,,statestreet.com
+212,UK,Northern Trust,no,,northerntrust.com
+213,UK,Rothschild & Co,no,,rothschildandco.com
+214,UK,ClearScore,no,,clearscore.com
+215,UK,Funding Circle,no,,fundingcircle.com
+216,UK,Tide,no,,tide.co
+217,UK,Ebury,no,,ebury.com
+218,UK,Allica Bank,no,,allica.bank
+219,UK,Sainsbury's,no,,sainsburys.jobs
+220,UK,Tesco,no,,tesco-careers.com
+221,UK,Unilever,no,,unilever.com
+222,UK,BP,no,,bp.com
+223,UK,Shell,no,,shell.co.uk
+224,UK,National Grid,no,,nationalgrid.com
+225,UK,Octopus Energy,no,,octopus.energy
+226,UK,Rolls-Royce,no,,rolls-royce.com
+227,UK,BT Group,no,,bt.com
+228,UK,Civil Service Fast Stream,no,,faststream.gov.uk
+229,UK,Financial Conduct Authority (FCA),no,,fca.org.uk
+230,India,EXL,no,,exlservice.com
+231,India,Genpact,no,,genpact.com
+232,India,WNS,no,,wns.com
+233,India,Evalueserve,no,,evalueserve.com
+234,India,Axtria,no,,axtria.com
+235,India,Tredence,no,,tredence.com
+236,India,Course5 Intelligence,no,,course5i.com
+237,India,American Express India (AIA / Gurugram),no,,americanexpress.com
+238,India,Mastercard India,no,,mastercard.com
+239,India,Visa India,no,,visa.com
+240,India,Barclays India (Pune),no,,barclays.co.uk
+241,India,Citi India,no,,citi.com
+242,India,Morgan Stanley India,no,,morganstanley.com
+243,India,BNY India (Pune / Chennai),no,,bny.com
+244,India,Standard Chartered India (GBS),no,,sc.com
+245,India,Fidelity International India (Gurugram),no,,fidelityinternational.com
+246,India,BlackRock India (Gurugram / Mumbai),no,,blackrock.com
+247,India,State Street India,no,,statestreet.com
+248,India,EY GDS India,no,,ey.com
+249,India,KPMG Global Services India,no,,kpmg.com
+250,India,Kearney India,no,,kearney.com
+251,India,Alvarez & Marsal India,no,,alvarezandmarsal.com
+252,India,PayU India,no,,payu.in
+253,India,Juspay,no,,juspay.in
+254,India,Pine Labs,no,,pinelabs.com
+255,India,Bajaj Finserv / Bajaj Finance,no,,bajajfinserv.in
+256,India,Experian India,no,,experian.in
+257,India,TransUnion CIBIL,no,,transunioncibil.com
+258,India,Hindustan Unilever (HUL),no,,hul.co.in
+259,India,Bharti Airtel,no,,airtel.in
