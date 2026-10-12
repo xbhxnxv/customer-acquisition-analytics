@@ -1,6 +1,6 @@
 # Best-fit job sweep — 2026-10-12
 
-63 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
+70 roles listed in `Best_Fit_Jobs_By_Deadline.xlsx`.
 
 ## 10 nearest deadlines
 
@@ -68,13 +68,9 @@ Confirm your earlier application covers this (2027) cycle:
 - India private banks (ICICI, HDFC, Axis, Kotak, IDFC First, Yes) (India) — Kotak / HDFC / ICICI analytics or credit-analyst fresher roles — check each bank's careers portal
 - India big-tech arms (Google, Microsoft, Amazon [done], Salesforce, Oracle, SAP, Adobe, Cisco, Uber, LinkedIn, ServiceNow, Snowflake, Databricks) (India) — India big-tech group: Microsoft, Salesforce, SAP, Adobe, Cisco, LinkedIn, ServiceNow, Snowflake, Databricks not individually searched
 - India SaaS (Freshworks, Zoho, Postman, Chargebee, BrowserStack, InMobi, Delhivery, PolicyBazaar, Navi, Angel One) (India) — India SaaS group: Zoho, Postman, Chargebee, InMobi, Navi, Angel One, Delhivery — search careers pages individually
-- Analytics firms (MuSigma, LatentView, plus BCN & McKinsey Knowledge Centre) (India) — not yet checked
-- CRED (India) — not yet checked
-- Groww (India) — not yet checked
-- Dream11 (Dream Sports) (India) — not yet checked
-- Zerodha (India) — not yet checked
-- Meesho / Zepto / Nykaa / Ola (India) — not yet checked
-- Tata / large Indian enterprises (TCS, Infosys, Wipro, HCL, Tech Mahindra, LTIMindtree, Mphasis, Persistent, Coforge) (India) — not yet checked
+- Analytics firms (MuSigma, LatentView, plus BCN & McKinsey Knowledge Centre) (India) — McKinsey Knowledge Center Gurugram & LatentView — check careers pages for live analyst roles
+- Meesho / Zepto / Nykaa / Ola (India) — Meesho / Zepto / Nykaa — check careers pages for fresher BA roles
+- Tata / large Indian enterprises (TCS, Infosys, Wipro, HCL, Tech Mahindra, LTIMindtree, Mphasis, Persistent, Coforge) (India) — IT services group — BA-specific fresher roles not found; check each portal (e.g. TCS NextStep/iBegin)
 - S&P Global India (+ CRISIL) (India) — not yet checked
 - MSCI India (India) — not yet checked
 - Morningstar / Sustainalytics India (India) — not yet checked
